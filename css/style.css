@@ -34,7 +34,7 @@ ul {
     list-style-type: none;
 }
 
-.conteiner {
+.container {
     width: 1170px;
     margin: 0 auto;
     padding-top: 50px;
@@ -102,7 +102,7 @@ ul {
     .grid__item {
         flex-basis: 50%;
     }
-    .conteiner {
+    .container {
         width: 90%
     }
 }
@@ -117,7 +117,7 @@ ul {
     .grid__item {
         flex-basis: 30%;
     }
-    .conteiner {
+    .container {
         width: 80%
     }
 }
@@ -130,7 +130,7 @@ ul {
     .grid__item {
         flex-basis: 23%;
     }
-    .conteiner {
+    .container {
         width: 70%
     }
 }
